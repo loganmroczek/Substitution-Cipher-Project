@@ -2,6 +2,7 @@
 
 Collection of Substitution Ciphers for Python2 Class Project
 
+
 Folder Descriptions:
 
 Generic_Sub Ciphers contains the generic encryption and decryption functions that will be used by all ciphers.
